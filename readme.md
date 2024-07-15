@@ -1,4 +1,4 @@
-## Project: Safety Hazard Text Classification
+## Project: Multi-label Text Classification
 
 This project consists of two Python scripts for training, validating, and deploying a text classification model to identify safety hazards from warranty claims and complaints.
 
